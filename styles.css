@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  font-family: Roboto, Arial, Verdana, sans-serif;
+}
+
+.container {
+  
+  background-color: lightblue;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.squares {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1rem;
+  width: 11rem;
+  height: 11rem;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+button[type="reset"] {
+  font-family: inherit;
+  font-size: 1.5rem;
+  
+}
