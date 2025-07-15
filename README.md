@@ -16,6 +16,6 @@ On [GitHub Pages](https://derektypist.github.io/build-a-tic-tac-toe-game) at the
 
 ## Credits
 
-### Acknowledgements
+### Acknowledgements
 
 [FreeCodeCamp](https://www.freecodecamp.org)
