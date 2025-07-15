@@ -12,4 +12,10 @@ Uses HTML5, CSS3 and React.
 
 ## Deployment
 
-On [GitHub Pages](https://derektypist.github.io/build-a-tic-tac-toe-game) at the main branch.  Go to Settings, 
+On [GitHub Pages](https://derektypist.github.io/build-a-tic-tac-toe-game) at the main branch.  Go to Settings, then Pages.
+
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org)
