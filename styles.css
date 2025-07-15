@@ -28,6 +28,9 @@ h1 {
 }
 
 button[type="reset"] {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  width: 11rem;
   font-family: inherit;
   font-size: 1.5rem;
   
